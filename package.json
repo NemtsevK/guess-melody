@@ -1,8 +1,9 @@
 {
   "name": "guess-melody",
-  "author": "Nemtsev Konstantin <nemtsevk@hotmail.com> (https://github.com/nemtsev-k)",
-  "description": "Проект «Угадай мелодию» от HTML Academy",
-  "homepage": "https://nemtsev-k.github.io/guess-melody/",
+  "author": "Nemtsev Konstantin <nemtsevk@hotmail.com> (https://github.com/NemtsevK)",
+  "description": "Проект «Угадай мелодию»",
+  "homepage": "https://nemtsevk.github.io/guess-melody/",
+  "repository": "https://github.com/NemtsevK/guess-melody",
   "private": true,
   "type": "module",
   "scripts": {
